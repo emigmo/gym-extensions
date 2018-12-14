@@ -1,5 +1,13 @@
-# YangChao modified TODO:
-###
+# Modified TODO:
+## Tested env
+| gym-extensions   |      env-names      |  commit |
+|:----------:|-------------|:------:|
+| Morphological Modifications |<ul><li>HopperSmallFoot-v0</li><li>HopperSmallLeg-v0</li><li>HopperSmallThigh-v0</li><li>HopperSmallTorso-v0</li><li>HopperBigFoot-v0</li><li>HopperBigLeg-v0</li><li>HopperBigThigh-v0</li><li>HopperBigTorso-v0</li><li>Walker2dSmallFoot-v0</li><li>Walker2dSmallLeg-v0</li><li>Walker2dSmallThigh-v0</li><li>Walker2dSmallTorso-v0</li><li>Walker2dBigFoot-v0</li><li>Walker2dBigLeg-v0</li><li>Walker2dBigThigh-v0</li><li>Walker2dBigTorso-v0</li><li>HalfCheetahSmallFoot-v0</li><li>HalfCheetahSmallLeg-v0</li><li>HalfCheetahSmallThigh-v0</li><li>HalfCheetahSmallTorso-v0</li><li>HalfCheetahBigFoot-v0</li><li>HalfCheetahBigLeg-v0</li><li>HalfCheetahBigThigh-v0</li><li>HalfCheetahBigTorso-v0</li><li>HumanoidSmallFoot-v0</li><li>HumanoidSmallLeg-v0</li><li>HumanoidSmallThigh-v0</li><li>HumanoidSmallTorso-v0</li><li>HumanoidBigFoot-v0</li><li>HumanoidBigLeg-v0</li><li>HumanoidBigThigh-v0</li><li>HumanoidBigTorso-v0</li><li>HumanoidSmallHead-v0</li><li>HumanoidBigHead-v0</li><li>HumanoidSmallArm-v0</li><li>HumanoidBigArm-v0</li><li>HumanoidSmallHand-v0</li><li>HumanoidBigHand-v0</li></ul>| Done |
+| Arm Environments |  <ul><li>StrikerMovingStart-v0</li><li>PusherMovingGoal-v0</li></ul>| Done |
+| Random Walls and Sensors |<ul><li>HopperWithSensor-v0</li><li>HopperWall-v0</li><li>HalfCheetahWithSensor-v0</li><li>HalfCheetahWall-v0</li><li>Walker2dWithSensor-v0</li><li>Walker2dWall-v0</li><li>HumanoidWithSensor-v0</li><li>HumanoidWall-v0</li><li>HumanoidStandupWithSensor-v0</li><li>HumanoidStandupAndRunWithSensor-v0</li><li>HumanoidStandupAndRunWall-v0</li></ul>|   - |
+| Humanoid Extended Tasks |<ul><li>HumanoidStandupAndRun-v0</li></ul>|-|
+| Modified Gravity |<ul><li>Walker2dGravityHalf-v0</li><li>Walker2dGravityThreeQuarters-v0</li><li>Walker2dGravityOneAndQuarter-v0</li><li>Walker2dGravityOneAndHalf-v0</li><li>HalfCheetahGravityHalf-v0</li><li>HalfCheetahGravityThreeQuarters-v0</li><li>HalfCheetahGravityOneAndQuarter-v0</li><li>HalfCheetahGravityOneAndHalf-v0</li><li>HumanoidGravityHalf-v0</li><li>HumanoidGravityThreeQuarters-v0</li><li>HumanoidGravityOneAndQuarter-v0</li><li>HumanoidGravityOneAndHalf-v0</li></ul>|-|
+
 ###
 
 <img src="assets/Mcgill.png" width=25% align="right" />
