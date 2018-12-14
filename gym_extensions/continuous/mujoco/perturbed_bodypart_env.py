@@ -91,7 +91,7 @@ def ModifiedSizeEnvFactory(class_type):
                 # geoms[0].attrib["fromto"] = str() * length_scale) # the first one should always be the thing we want.
 
             # create new xml
-            _, file_path = tempfile.mkstemp(text=True)
+            _, file_path = tempfile.mkstemp(text=True, suffix='.xml')
             tree.write(file_path)
 
             # load the modified xml
